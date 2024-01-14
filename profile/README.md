@@ -15,7 +15,7 @@
 
 - plum (暂未开源)：统一的跨端 Minecraft 开发框架。
 
-- [serverpacker](https://github.com/PlutoProject/serverpacker)：使用 Go 语言编写的 Minecraft 服务器打包工具。
+- [serverpacker](https://github.com/PlutoProject/serverpacker)：使用 Kotlin 语言编写的 Minecraft 服务器打包工具。
 
 ---
 
