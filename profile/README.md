@@ -6,7 +6,9 @@
 
 ## 我们的 Minecraft 服务器项目
 
-- 星社：源自玩家，献给玩家。
+- 星社 Project：源自玩家，献给玩家。
+  - [common](https://github.com/PlutoProject/common)：✨ 星社 Project 的通用组件。
+  - [configuration](https://github.com/PlutoProject/configuration)：🧰 星社 Project 使用的配置文件。
 
 ## 我们主要的项目
 
