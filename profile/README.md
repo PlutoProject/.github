@@ -4,17 +4,12 @@
 
 此组织存放了我们向社区公开的开源项目。
 
-## 我们的 Minecraft 服务器项目
+## 我们公开的 Minecraft 项目
 
-- 星社 Project：源自玩家，献给玩家。
-  - [common](https://github.com/PlutoProject/common)：✨ 星社 Project 的通用组件。
-  - [configuration](https://github.com/PlutoProject/configuration)：🧰 星社 Project 使用的配置文件。
-
-## 我们主要的项目
-
-- plum (暂未开源)：平衡性能与稳定性的 Paper 分支。
-
-- [serverpacker](https://github.com/PlutoProject/serverpacker)：使用 Kotlin 语言编写的 Minecraft 服务器打包工具。
+- [common](https://github.com/PlutoProject/common)：✨ 星社 Project 的通用组件。
+- [configuration](https://github.com/PlutoProject/configuration)：🧰 星社 Project 使用的配置文件。
+- [timebottle](https://github.com/PlutoProject/timebottle)：🫙 适用于 Paper 服务器的漂流瓶插件
+- [serverpacker](https://github.com/PlutoProject/serverpacker)：📁 已归档 | 使用 Kotlin 语言编写的 Minecraft 服务器打包工具。
 
 ---
 
